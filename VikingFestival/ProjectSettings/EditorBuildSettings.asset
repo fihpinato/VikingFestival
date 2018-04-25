@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/EmailPassword.unity
+    guid: 9fb6992ead1cd47cc888a088336a9800
+  - enabled: 1
+    path: Assets/Scenes/Games_Scene.unity
+    guid: 57236361572597747970b6216758d409
+  - enabled: 1
+    path: Assets/Scenes/Futebol_Scene.unity
+    guid: fa74fb9943067c0418ba9834a104d8b3
+  - enabled: 1
+    path: Assets/Scenes/Barco_Scene.unity
+    guid: 19b37a4f18e0ff443af1f04589f0eb0c
+  - enabled: 1
+    path: Assets/Scenes/QRCode_Scene.unity
+    guid: 8b06df8b328c9b34ba102ff623e5b2e2
+  - enabled: 1
+    path: Assets/Scenes/Machado_Scene.unity
+    guid: b9725e429cf560243a87e07eebd811a6
+  - enabled: 1
+    path: Assets/Scenes/TelaCadastro.unity
+    guid: 62ef3803accc6284e9d0764c6712fe80
+  - enabled: 1
+    path: Assets/Scenes/t.unity
+    guid: a3b6d41e9e0eb124e8aba42ed3d4eb6f

@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 0b2aaf3e0db469c43ad53412d1ece4a0
+timeCreated: 1521748573
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Viking_Boat
+    100004: Viking_Rowing
+    100006: Viking_Rowing_1
+    100008: Viking_Rowing_2
+    100010: Viking_Rowing_3
+    100012: Viking_Rowing_4
+    100014: Viking_Rowing_5
+    100016: Viking_Rowing_6
+    100018: Viking_Shield_1
+    100020: Viking_Shield_2
+    100022: Viking_Shield_3
+    100024: Viking_Shield_4
+    100026: Viking_Shield_5
+    100028: Viking_Shield_6
+    100030: Viking_Shield_7
+    100032: Viking_Shield_8
+    100034: Viking_Shields
+    400000: //RootNode
+    400002: Viking_Boat
+    400004: Viking_Rowing
+    400006: Viking_Rowing_1
+    400008: Viking_Rowing_2
+    400010: Viking_Rowing_3
+    400012: Viking_Rowing_4
+    400014: Viking_Rowing_5
+    400016: Viking_Rowing_6
+    400018: Viking_Shield_1
+    400020: Viking_Shield_2
+    400022: Viking_Shield_3
+    400024: Viking_Shield_4
+    400026: Viking_Shield_5
+    400028: Viking_Shield_6
+    400030: Viking_Shield_7
+    400032: Viking_Shield_8
+    400034: Viking_Shields
+    2300000: Viking_Boat
+    2300002: Viking_Rowing_1
+    2300004: Viking_Rowing_2
+    2300006: Viking_Rowing_3
+    2300008: Viking_Rowing_4
+    2300010: Viking_Rowing_5
+    2300012: Viking_Rowing_6
+    2300014: Viking_Shield_1
+    2300016: Viking_Shield_2
+    2300018: Viking_Shield_3
+    2300020: Viking_Shield_4
+    2300022: Viking_Shield_5
+    2300024: Viking_Shield_6
+    2300026: Viking_Shield_7
+    2300028: Viking_Shield_8
+    3300000: Viking_Boat
+    3300002: Viking_Rowing_1
+    3300004: Viking_Rowing_2
+    3300006: Viking_Rowing_3
+    3300008: Viking_Rowing_4
+    3300010: Viking_Rowing_5
+    3300012: Viking_Rowing_6
+    3300014: Viking_Shield_1
+    3300016: Viking_Shield_2
+    3300018: Viking_Shield_3
+    3300020: Viking_Shield_4
+    3300022: Viking_Shield_5
+    3300024: Viking_Shield_6
+    3300026: Viking_Shield_7
+    3300028: Viking_Shield_8
+    4300000: Viking_Boat
+    4300002: Viking_Shield_1
+    4300004: Viking_Shield_2
+    4300006: Viking_Shield_3
+    4300008: Viking_Shield_4
+    4300010: Viking_Shield_5
+    4300012: Viking_Shield_6
+    4300014: Viking_Shield_7
+    4300016: Viking_Shield_8
+    4300018: Viking_Rowing_6
+    4300020: Viking_Rowing_5
+    4300022: Viking_Rowing_4
+    4300024: Viking_Rowing_3
+    4300026: Viking_Rowing_2
+    4300028: Viking_Rowing_1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Viking_Boat1
+    second: {fileID: 2100000, guid: 54abad72d95bc8f4d8b487440ff1e845, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Viking_Rowing1
+    second: {fileID: 2100000, guid: 1c7862f4a1f90e64c99f188ee07125f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Viking_Shields1
+    second: {fileID: 2100000, guid: cc93b021ae866994b925820baf907aaa, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
