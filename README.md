@@ -1,2 +1,2 @@
 # VikingFestival
-A Startup project W.I.P
+A Startup project made in Unity W.I.P
