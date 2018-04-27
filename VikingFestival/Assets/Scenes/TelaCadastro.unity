@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44658017, g: 0.49641502, b: 0.57482153, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -1771,11 +1771,10 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1728111595}
-  - component: {fileID: 1728111596}
-  - component: {fileID: 1728111597}
   - component: {fileID: 1728111598}
+  - component: {fileID: 1728111599}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: CreateAccHandler
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1794,49 +1793,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1728111596
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1728111594}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 999881ae321dbea46b2cf08e2682147f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  SceneToLoad: EmailPassword
-  SceneToLogout: TelaCadastro
-  errorText: {fileID: 632555322}
-  slider: {fileID: 0}
-  panel: {fileID: 0}
-  audioSource: {fileID: 0}
-  emailAddress: 
-  nome: 
-  jsonData: 
-  gols: 0
-  pontosA: 0
-  SenhaConfirmada: {fileID: 0}
-  SenhaConf: 
---- !u!114 &1728111597
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1728111594}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ac2290a9c3350bd4cbf8b7052fd4d007, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  CadatroB: {fileID: 0}
-  SignupButton: {fileID: 1451251868}
-  LoginButton: {fileID: 0}
-  email: {fileID: 560899323}
-  senhaConfirma: {fileID: 1917935594}
-  senha: {fileID: 1335916276}
-  dataNascimento: {fileID: 1583484948}
-  nomeInputField: {fileID: 656562253}
 --- !u!114 &1728111598
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1850,6 +1806,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sceneBack: EmailPassword
   close: 0
+--- !u!114 &1728111599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1728111594}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbcacdda209e17d48a3ec1181c2776e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SignupButton: {fileID: 1451251868}
+  email: {fileID: 560899323}
+  senhaConfirma: {fileID: 1917935594}
+  senha: {fileID: 1335916276}
+  dataNascimento: {fileID: 1583484948}
+  nomeInputField: {fileID: 656562253}
 --- !u!1 &1789942254
 GameObject:
   m_ObjectHideFlags: 0
