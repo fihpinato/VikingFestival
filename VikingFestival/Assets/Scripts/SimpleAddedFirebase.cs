@@ -163,8 +163,8 @@ public class SimpleAddedFirebase : MonoBehaviour {
                     Read();
 					ReadNome();
 
-                    //SceneManager.LoadScene(SceneToLoad, LoadSceneMode.Single);
-                    StartCoroutine(AsynchronousLoad(SceneToLoad, slider));
+                    SceneManager.LoadScene(SceneToLoad, LoadSceneMode.Single);
+                    //StartCoroutine(AsynchronousLoad(SceneToLoad, slider));
                 }
 			});
 

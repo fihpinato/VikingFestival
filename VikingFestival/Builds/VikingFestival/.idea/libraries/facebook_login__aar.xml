@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="facebook-login:@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/build/intermediates/exploded-aar/facebook-login/res" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/facebook-login/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

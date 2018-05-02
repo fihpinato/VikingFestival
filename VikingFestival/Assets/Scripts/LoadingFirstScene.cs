@@ -17,7 +17,7 @@ public class LoadingFirstScene : MonoBehaviour {
         if (PlayerPrefs.HasKey("email") && PlayerPrefs.HasKey("senha")) {
             SimpleAddedFirebase.Instance.Login(PlayerPrefs.GetString("senha"), PlayerPrefs.GetString("email"), slider);
         } else {
-            StartCoroutine(SimpleAddedFirebase.Instance.AsynchronousLoad("EmailPassword", slider));
+            //StartCoroutine(SimpleAddedFirebase.Instance.AsynchronousLoad("EmailPassword", slider));
         }
     }
 }

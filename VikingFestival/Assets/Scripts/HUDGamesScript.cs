@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class HUDGamesScript : MonoBehaviour {
 
@@ -16,6 +17,6 @@ public class HUDGamesScript : MonoBehaviour {
 	}
 
     public void LogOut () {
-        SimpleAddedFirebase.Instance.LogOut();
+        SceneManager.LoadScene("Settings", LoadSceneMode.Single);
     }
 }

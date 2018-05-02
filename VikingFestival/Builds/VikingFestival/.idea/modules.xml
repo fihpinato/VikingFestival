@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Firebase/Firebase.iml" filepath="$PROJECT_DIR$/Firebase/Firebase.iml" />
       <module fileurl="file://$PROJECT_DIR$/VikingFestival.iml" filepath="$PROJECT_DIR$/VikingFestival.iml" />
     </modules>
   </component>

@@ -25,7 +25,7 @@
     <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="fb145617509448388" />
     <provider android:name="com.facebook.FacebookContentProvider" android:authorities="com.facebook.app.FacebookContentProvider145617509448388" android:exported="true" />
     <meta-data android:name="unityplayer.SkipPermissionsDialog" android:value="true" />
-    <meta-data android:name="unity.build-id" android:value="a4f3d881-cd48-4a01-a4fe-d7d56dc3ad4f" />
+    <meta-data android:name="unity.build-id" android:value="b1f262ac-a40b-4645-8f16-f15afb71e4d8" />
     <meta-data android:name="unity.splash-mode" android:value="0" />
     <meta-data android:name="unity.splash-enable" android:value="False" />
     <meta-data android:name="android.max_aspect" android:value="2.1" />
